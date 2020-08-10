@@ -4,7 +4,7 @@
 - 💬 Ask me about **iOS, macOS & tvOS**
 - 📝 I regulary write articles on **[Developer Insider](https://developerinsider.co)**
 
-## Find me around the web 🌎
+## Find me around the web
 - Twitter: [twitter.com/vineet291](https://twitter.com/vineet291)
 - Medium: [medium.com/@vineetchoudhary](https://medium.com/@vineetchoudhary)
 - LinkedIn: [linkedin.com/in/choudharyvineet](https://linkedin.com/in/choudharyvineet)
