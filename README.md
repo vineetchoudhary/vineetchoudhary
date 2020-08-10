@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Vineet Choudhary
-- 🏢 I'm currently working full-time with **[Accedo.tv](https://accedo.tv)**
+- 🏢 I'm an iOS Software Engineer @ **[Accedo.tv](https://accedo.tv)**
 - 🔭 I spent some free time working on **[AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)** & **[Downloader](https://github.com/vineetchoudhary/Downloader-for-Apple-Developers)**
 - 🌱 I’m currently learning **[SwiftUI](https://github.com/vineetchoudhary/100-days-of-SwiftUI)**
 - 💬 Ask me about **iOS, macOS & tvOS**
