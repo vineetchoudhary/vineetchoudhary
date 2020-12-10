@@ -12,4 +12,4 @@
 - Stackoverflow: [https://stackoverflow.com/users/4558367](https://stackoverflow.com/users/4558367/vineet-choudhary)
 
 ## GitHub Profile Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vineetchoudhary&show_icons=true&count_private=true&include_all_commits=true&theme=graywhite&hide_title=true" alt="vineetchoudhary" />
+<img src="https://github-readme-stats.vercel.app/api?username=vineetchoudhary&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=dark" alt="vineetchoudhary" />
